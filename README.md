@@ -2,7 +2,7 @@
 
 ## Contact
 For support or questions, please contact:
-support@voicenotesai.app
+voicenotesai@web.de
 
 ## About the App
 Voice Notes AI allows users to record voice notes and generate AI-powered summaries and actionable task lists.
